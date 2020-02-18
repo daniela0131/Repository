@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!--
+Name: Daniela Gonzlez
+Date Created:2/11/2020
+Most recent revision:-
+-->
+<html>
+<head>
+<title>Daniela's Portfolio</title>
+</head>
+<body>
+<h1>Portfolio for Daniela Gonzalez</h1>
+<hr/>
+<p><!-- We need to add links to projects.html, contact.html, and testimonials.html --></p>
+<hr/>
+<h2><em> Abaut Me</em> </h2>
+<p>Paragraph 1 </p>
+<p>Paragraph 2</p>
+<h2><em>Past Experiences</em></h2>
+<p>Paragraph 1 describing something you've accomplished in the past.</p>
+<p>Paragraph 2 with another accomplishment.</p>
+<h2><em>Hobbies</em></h2>
+<p>Paragraph 1 describing your favorite hobby.</p>
+<p>Paragraph 2 describing another hobby.</p>
+<hr/>
+</body>
+</html>
